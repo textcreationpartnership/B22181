@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance or declaration of the Lords and Commons assembled in Parliament shewing that all the regiments of foote, and troopes of horse in London and all parts of England : shall within fortie eight houres after publication hereof, march to His Excellence Robert Earle of Essex to be imployed for the defence of His Maiesty and kingdome the priviledge of Parliament and liberty of the subiect.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22181</idno><idno type="EEBO-CITATION">12277380</idno>
+  <idno type="VID">197683</idno>
+  <idno type="EEBO-PROQUEST">2248571183</idno>
+  
+            <idno type="STC">Wing E2115</idno>
+            <idno type="OCLC">12277380</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22181)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197683)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E118, no 37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance or declaration of the Lords and Commons assembled in Parliament shewing that all the regiments of foote, and troopes of horse in London and all parts of England : shall within fortie eight houres after publication hereof, march to His Excellence Robert Earle of Essex to be imployed for the defence of His Maiesty and kingdome the priviledge of Parliament and liberty of the subiect.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright,</publisher>
+                  <pubPlace>... London :</pubPlace>
+                  <date>Septemb. 24, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197683:1"/>
+            <p>AN ORDINANCE OR DECLARATION OF THE Lords and Commons assembled in Parliament.</p>
+            <p>Shewing that all the Regiments of Foot, and Troopes of Horse, in <hi>London</hi> and all parts of <hi>England,</hi> shall within fortie eight houres after publication hereof, march to his Excel<g ref="char:EOLhyphen"/>lence, <hi>Robert</hi> Earle of <hi>Essex,</hi> to be imployed for the defence of his Maiesty and Kingdome the Priviledge of Parliament and Li<g ref="char:EOLhyphen"/>berty of the Subiect.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Veneriis 23 Septemb. 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords and Commons in Parliament, That this Declaration shalbe forth-with printed and published.</p>
+                        <closer>
+                           <signed>J. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>24 Septemb. London printed for <hi>Iohn Wrigh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>2▪</hi>
+            </p>
+            <pb facs="tcp:197683:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:197683:2"/>
+            <head>An Ordinance Or DECLARATION Of the Lords and Commons assembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas divers Regi<g ref="char:EOLhyphen"/>ments of Foot, and Troopes of Horse, have long since bin lysted in the Army raysed by the Parliament, for the
+<pb facs="tcp:197683:3"/> defence of the King and King<g ref="char:EOLhyphen"/>dome, under the command of <hi>Ro<g ref="char:EOLhyphen"/>bert</hi> Earle of <hi>Essex,</hi> of which some are not marched away to their Rendezvous, according to their duty, and others are not of fitting numbers for service, yet all re<g ref="char:EOLhyphen"/>ceive pay to the great charge of the Kingdome, and by this their neglect doe great preiudice to the publique Cause; in which Reli<g ref="char:EOLhyphen"/>gion, Lawes and Libertie, are so much concerned. It is therefore Ordeyned and Declared by the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment assembled, That such regi<g ref="char:EOLhyphen"/>ments of Foot as consists of foure hundred men or more, and troops of Horse, as consist of forty
+<pb facs="tcp:197683:3"/> or more, shall within forty eight houres after publication hereof, march towards the place where they shall understand the Lord Generall to be, except by speciall Order they be directed to any o<g ref="char:EOLhyphen"/>ther place; And they shall not stay by the way longer then for their necessary refreshment; And such regiments or troopes as shall faile herein, or shall not consist of such numbers as is before specified, That is to say, a Regiment of Foot of foure hundred, and a Troop of Horse of forty, shall be casheired and also lyable to such further punishment, as upon examinati<g ref="char:EOLhyphen"/>on of the cause of their fayling, and neglect, shall bee found that
+<pb facs="tcp:197683:4"/> they have deserved. And the common Souldiers of such Regi<g ref="char:EOLhyphen"/>ment or troope so casheired, shall be disposed of, for the filling up and recruting of others.</p>
+            <p>Yet in regard the Captaines of some regiments which have not the number of four hundred, may have beene carefull to raise and compleate their own Companies, And that there is no reason they should suffer for the default of o<g ref="char:EOLhyphen"/>thers; either the Colonels or other Captaines that have not beene so carefull, It is thought fit, that such Captaine of any regiment now to be casheired, as shal have his com<g ref="char:EOLhyphen"/>pany compleat, shall be continu<g ref="char:EOLhyphen"/>ed in his entertainment, together
+<pb facs="tcp:197683:4"/> wit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his company, &amp; shall march unto the place where the Lord Generall shall be, to bee disposed of by him in any other regiment, or otherwise Imployed as his Lordship shall think fit.</p>
+            <p>And it is further declared, That the regiments of Colonell <hi>Essex,</hi> and Colonell <hi>Ballard,</hi> shall not be understood to bee within this or<g ref="char:EOLhyphen"/>der, in regard both those Colonels have bin, and yet are imployed in the service of the State; And their absence may be a cause, that their regiments are not in that forward<g ref="char:EOLhyphen"/>nesse that otherwise they would have beene. But they are hereby enioyned with all possible speed to march unto the Army.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
